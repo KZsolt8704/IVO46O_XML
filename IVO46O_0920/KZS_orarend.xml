@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE orarend SYSTEM "KZS_orarend.dtd">
+<orarend>
+    <ora id="L01" type="ea">
+        <kurzusnev>Adatkezelés XML-ben</kurzusnev>
+        <idopont>
+            <nap>2024.09.20.</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+        <helyszin>In/103</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>III. évf. Mérnök info. (BSC)</szak>
+    </ora>
+    <ora id="L02" type="ea">
+        <kurzusnev>Adatkezelés XML-ben</kurzusnev>
+        <idopont>
+            <nap>2024.09.27.</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+        <helyszin>In/101</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>III. évf. Mérnök info. (BSC)</szak>
+    </ora>
+    <ora id="L03" type="gyak">
+        <kurzusnev>Adatkezelés XML-ben</kurzusnev>
+        <idopont>
+            <nap>2024.10.11.</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+        <helyszin>In/101</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>III. évf. Mérnök info. (BSC)</szak>
+    </ora>
+    <ora id="L04" type="gyak">
+        <kurzusnev>Adatkezelés XML-ben</kurzusnev>
+        <idopont>
+            <nap>2023.12.06.</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+        <helyszin>In/101</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>III. évf. Mérnök info. (BSC)</szak>
+    </ora>
+</orarend>
