@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE konferencia SYSTEM "IVO46O_konferencia.dtd">
+<konferencia>
+	<cim>VISZ őszi konferencia Miskolcon</cim>
+	<hallgatok>
+		<hallgato>
+			<nev>Tóth Bálint</nev>
+			<lakcim>3535 Miskolc, Szilvás utca 36.</lakcim>
+		</hallgato>
+	</hallgatok>
+	<helyszin>Miskolci Egyetem</helyszin>
+	<eloado>
+		<nev>Homo Dominik</nev>
+		<lakcim>3508 Miskolc, Egyetem út 1.</lakcim>
+		<adoszam>123456-1-23</adoszam>
+	</eloado>
+	<datum>2024.11.05.</datum>
+</konferencia>

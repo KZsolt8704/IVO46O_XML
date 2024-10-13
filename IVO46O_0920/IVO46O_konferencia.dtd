@@ -1,0 +1,10 @@
+<!ELEMENT konferencia (cim, hallgatok, helyszin, eloado, datum)>
+<!ELEMENT cim (#PCDATA)>
+<!ELEMENT hallgatok (hallgato+)>
+<!ELEMENT hallgato (nev, lakcim)>
+<!ELEMENT nev (#PCDATA)>
+<!ELEMENT lakcim (#PCDATA)>
+<!ELEMENT helyszin (#PCDATA)>
+<!ELEMENT eloado (nev, lakcim, adoszam)>
+<!ELEMENT adoszam (#PCDATA)>
+<!ELEMENT datum (#PCDATA)>
